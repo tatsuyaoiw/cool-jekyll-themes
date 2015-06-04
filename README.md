@@ -2,6 +2,7 @@
 
 Cool jekyll themes I want to give it a try.
 
+- Poole - ([source](https://github.com/poole/poole), [demo](http://demo.getpoole.com/))
 - Exemplar - ([source](https://github.com/tybenz/exemplar), [demo](http://tybenz.com/exemplar/))
 - Minimal Mistakes - ([source](https://github.com/mmistakes/minimal-mistakes), [demo](https://mmistakes.github.io/minimal-mistakes/))
 - So Simple - ([source](https://github.com/mmistakes/so-simple-theme), [demo](https://mmistakes.github.io/so-simple-theme/))
